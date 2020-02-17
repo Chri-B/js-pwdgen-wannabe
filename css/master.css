@@ -1,7 +1,13 @@
-.container {
+#container {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 100vh;
+}
+
+#psw-finale {
+    font-size: 50px;
+    color: blue;
+    padding: 0 20px;
 }
