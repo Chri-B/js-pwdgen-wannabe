@@ -18,12 +18,12 @@ h1 {
 }
 
 h2 {
-    color: rgb(199, 208, 34);
+    color: blue;
 }
 
 span {
     font-size: 50px;
-    color: blue;
+    color: rgb(51, 207, 32);
     padding: 0 20px;
     font-style: normal;
 }
@@ -34,6 +34,7 @@ span {
 
 p {
     font-style: italic;
+    padding-top: 20px;
 }
 
 #container #comparsa.visible {
